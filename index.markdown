@@ -4,6 +4,6 @@
 
 layout: default
 title: ALS Patient Care
-permalink: /index/
+order: 1
 ---
 #### Welcome
