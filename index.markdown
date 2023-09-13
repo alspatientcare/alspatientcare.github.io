@@ -6,4 +6,11 @@ layout: default
 title: ALS Patient Care
 order: 1
 ---
+<head>
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="/favicon.ico" type="image/ico" />
+    <link rel="icon" href="favicon.ico" type="image/ico" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+</head>
 #### Welcome
