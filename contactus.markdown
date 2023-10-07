@@ -6,6 +6,6 @@ order: 4
 ---
 You can reach out to us via phone or email.
 
-Phone: +91-9810070319
+[Phone:](tel:+91-9810070319) +91-9810070319
 
-Email: alspatientcare@gmail.com
+[Email:](mailto:alspatientcare@gmail.com) alspatientcare@gmail.com
