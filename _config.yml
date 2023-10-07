@@ -19,15 +19,17 @@
 # in the templates via {{ site.myvariable }}.
 
 title: ALS Patient Care
-email: alspatientcare@google.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Our mission is to make nursing care to patients of ALS extremely accessible.
+description: Our mission is to make nursing care to patients of ALS extremely accessible.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+header_pages:
+ - ourservices.markdown
+ - about.markdown
+ - contactus.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.

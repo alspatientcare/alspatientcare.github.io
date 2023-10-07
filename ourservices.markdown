@@ -2,6 +2,7 @@
 layout: page
 title: Our Services
 permalink: /ourservices/
+order: 2
 ---
 1. For any neurological problems, your neurologist should be the first point of contact. However, for any other associated medical problems or treatments, you can rely on us.
 
@@ -15,4 +16,6 @@ permalink: /ourservices/
 
 1. If the patient's family wishes to attend an event or function (e.g., a wedding), we can accommodate the patient in the hospital. However, this service is available only to patients who have previously been hospitalized with us, and one family member must accompany the patient.
 
-In the end, while we may not be able to cure the problem, we can certainly improve the quality of life for both patients and their attendants and caregivers. Here is a patient on Bipap in the 12th year of her illness.
+In the end, while we may not be able to cure the problem, we can certainly improve the quality of life for both patients and their attendants and caregivers. Here is a patient on BiPap in the 12th year of her illness.
+
+<img src="/img/portrait.jpg" height="300px">

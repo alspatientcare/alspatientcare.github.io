@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About Us
+title: About us
 permalink: /about/
+order: 3
 ---
-
 I am Dr. Narender Sharma, a surgeon by training and profession. I run a nursing home called Vinayak Hospital in Gurgaon, Haryana.
 
 My wife was diagnosed with Motor Neurone Disease (or ALS) in January 2011. Within a year, she had lost her ability to speak and was completely bedridden. She depended on caregivers to assist with basic daily tasks, including bathing, brushing, and changing her seating position. By 2012, she had also lost her ability to eat and swallow.
