@@ -23,4 +23,4 @@ We aim to assist such families by providing practical solutions in 2-3 hour work
 
 Patient at her son's engagement| Patient at her son's wedding
 :---: | :---:
-<img src="/img/engagement.jpg" height="200px">| <img src="/img/wedding.jpg" height="200px">
+<img src="/img/engagement.jpg" height="150px">| <img src="/img/wedding.jpg" height="150px">
