@@ -17,7 +17,7 @@ Although primarily a neurological condition, the degenerative nature of motor ne
 
 Since, there is practically no medicine to halt the progression of the disease, most of the patient's and attendant's time and energy are spent solving daily problems. As the patient is unable to move and speak, it becomes physically and mentally exhausting for all involved.
 
-We aim to assist such families by providing practical solutions in 2-3 hour workshops. The cost of these services would be very economical, making them accessible to everyone. We truly believe that these will help elavate the patient's life and enable them to be present for major events in their and their loved ones lives. 
+We aim to assist such families by providing practical solutions in 2-3 hour workshops. The cost of these services would be very economical, making them accessible to everyone. We truly believe that these will help elevate the patient's life and enable them to be present for major events in their and their loved ones lives. 
 
 
 <table style="width: 100%;">
