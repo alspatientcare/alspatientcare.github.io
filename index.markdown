@@ -19,14 +19,8 @@ Since, there is practically no medicine to halt the progression of the disease, 
 
 We aim to assist such families by providing practical solutions in 2-3 hour workshops. The cost of these services would be very economical, making them accessible to everyone. We truly believe that these will help elevate the patient's life and enable them to be present for major events in their and their loved ones lives. 
 
+<img src="/img/engagement.jpeg" width="30%"> 
+<img src="/img/wedding.jpeg" width="30%">
+<img src="/img/portrait_front_page.jpeg" width="30%">
 
-<table style="width: 100%;">
-    <tr>
-        <td style="width: 50%; border: 1px solid #ccc;"><b>Patient at her son’s engagement</b></td>
-        <td style="width: 50%; border: 1px solid #ccc;"><b>Patient at her son’s wedding</b></td>
-    </tr>
-    <tr>
-        <td style="width: 50%; border: 1px solid #ccc;"><img src="/img/engagement.jpeg"></td>
-        <td style="width: 50%; border: 1px solid #ccc;"><img src="/img/wedding.jpeg"></td>
-    </tr>
-</table>
+**Life doesn't need to be boring for the patient!** These photos were taken almost 8 years after the initial diagnosis, at her son's engagement and wedding. The last picture was taken in the 12<sup>th</sup> year of her illness.
